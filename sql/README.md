@@ -1,0 +1,1 @@
+Adicionar scripts DDL, DML e consultas somente após modelagem. Não executar em banco real/compartilhado sem autorização específica. Não versionar credenciais.

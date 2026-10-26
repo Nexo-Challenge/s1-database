@@ -1,0 +1,1 @@
+Preparar NomeGrupo_Challenge_1Sem_2TDS_BD.zip com PDF e arquivo .sql. Substituir NomeGrupo pelo nome confirmado. Validar integridade antes do envio.

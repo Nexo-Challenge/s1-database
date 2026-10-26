@@ -1,0 +1,1 @@
+Adicionar modelos conceitual, lógico e físico em 3FN e DER/MER em Barker após acordo de domínio.
