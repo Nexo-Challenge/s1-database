@@ -11,9 +11,14 @@ Fonte: `2TDS Agosto - Marinha 2026 - 1º Semestre V2.pdf`, seção **Mastering R
 O documento diverge: seção Entregas indica **01/11/2026**, Cronograma indica **até 02/11/2026**. Confirmar data e horário no portal/professor; nenhuma das datas foi validada como definitiva. Documentar eventuais instruções atualizadas do portal.
 
 ## Equipe e responsabilidade
-- Responsável principal: a confirmar.
-- Revisor: a confirmar.
-- Integrantes, nomes, RMs e turma: preencher pelo grupo após conferência e autorização para publicação. Nenhum dado pessoal foi presumido.
+
+| Nome Completo | RM | Turma | Responsabilidade Principal |
+| :--- | :--- | :--- | :--- |
+| **Alisson Kawan Evangelista Silva** | **RM567598** | 2TDSPS | Java e .NET |
+| **Kenji Fernandes Wakabayashi** | **RM568156** | 2TDSPS | IoT e Banco de Dados (Responsável Principal) |
+| **Erick Ramos Santos** | **RM567837** | 2TDSPS | DevOps Tools & Cloud Computing |
+| **Eduardo Boni dos Santos** | **RM567236** | 2TDSPS | Mobile Application Development |
+| **Marcos Vinicius de Jesus Almeida** | **RM567214** | 2TDSPS | Documentação e Qualidade de Software (QA) |
 
 ## Solução e escopo
 Proposta, público-alvo e recorte funcional ainda precisam ser aprovados. Não interpretar exemplos como requisitos adicionais.
